@@ -1,6 +1,5 @@
 
 # Evol Network - CryptoCurrency
-The Ultimate Affiliate Marketing Platform!
 
 ![Evol Network](https://evolnetwork.com/static/Assets/Images/EvolNetwork_CoinLogo-01.svg)
 
