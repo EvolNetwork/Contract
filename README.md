@@ -1,5 +1,5 @@
 
-# Evol Network
+# Evol Network - CryptoCurrency
 
 ![Evol Network](https://evolnetwork.com/static/Assets/Images/EvolNetwork_CoinLogo-01.svg)
 
