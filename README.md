@@ -25,8 +25,7 @@ Total Lifetime Supply 2,000,000,000
 Pre Mined Supply 200,000,000
 
 # Token Address 
-https://etherscan.io/token/0x5149481a60b57f48a7a97de
-dc5a28615add8b81f
+https://etherscan.io/token/0x5149481a60b57f48a7a97dedc5a28615add8b81f
 
 # Sale Contract Address 
 0x7dCa3A63372BfE00af1DA7a3B51BC6B592FF763F
@@ -40,7 +39,7 @@ periods.
 EVOL coin can also be referred token, initially be released as an ERC-20 
 token on Ethereum Mainnet.
 
-## Evol Network Official Website
+## Evol Network Official Site
 [Evol Network](https://evolnetwork.com/)
 
 
